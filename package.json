@@ -1,0 +1,25 @@
+{
+  "name": "mazinger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "8ball": "^1.0.6",
+    "args": "^5.0.1",
+    "ban": "0.0.0",
+    "cry": "0.0.0",
+    "discord.js": "^12.4.1",
+    "easy.database": "0.0.8",
+    "feed": "^4.2.1",
+    "happy": "^0.13.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "star-labs": "^1.1.2"
+  }
+}
